@@ -1,0 +1,59 @@
+
+/*图片轮播*/
+
+#ferry{
+	position: absolute;
+	clear: both;
+	width: 956px;
+	height: 400px;
+	overflow: hidden;
+	margin-top: 340px;
+	border-right:none;
+	border-right: none; 
+	border-top: 3px ridge #fff;
+	border-bottom: 3px ridge #fff;
+
+}
+
+#bar{
+	position: absolute;
+	clear: both;
+	width: 956px;
+	height: 400px;
+	margin-top: 850px;
+	border-right:none;
+	border-right: none;
+	border-top: 3px dotted #E6E8FA;
+	border-bottom: none;
+
+}
+
+#bar h1{
+	font-family: '楷体',sans-serif;
+	font-size: 25px;
+	text-decoration: none;
+	color: black;
+	background-color: #A68064;
+	display: block;
+	width: 150px;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	border-radius: 10px;
+	transition: 0.5s all ease;
+	
+}
+#bar ul{
+	float: left;
+	margin: 0;
+	display: inline;
+}
+
+#bar ul li{
+	float: left;
+	padding-top: 40px;
+	padding-left: 10px;
+
+}
+
+
